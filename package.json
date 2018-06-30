@@ -1,0 +1,24 @@
+{
+  "name": "ithub",
+  "version": "1.0.0",
+  "description": "一个简单的问答社区",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AAAAAAAAq/ithub.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AAAAAAAAq/ithub/issues"
+  },
+  "homepage": "https://github.com/AAAAAAAAq/ithub#readme",
+  "dependencies": {
+    "art-template": "^4.12.2",
+    "express": "^4.16.3"
+  }
+}
